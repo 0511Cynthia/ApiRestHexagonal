@@ -12,7 +12,7 @@ const dbconfig = {
     host: process.env.HOST,
     user: process.env.USER,
     database: process.env.DB,
-    password: process.env.DB_PSW,
+    password: process.env.PASSWORD,
     connectionLimit: 10,
 };
 
